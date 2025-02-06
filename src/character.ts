@@ -3,10 +3,10 @@ import mysql from "mysql2/promise";
 
 // Configuration de la base de données
 const db = mysql.createPool({
-    host: "192.168.1.125",
-    user: "wsl",
-    password: "wslconnexion",
-    database: "character_sodara",
+    host: "localhost",
+    user: "Sodilog68",
+    password: "Sodilog68",
+    database: "sodiflow_sodara",
 });
 
 // Fonction générique pour récupérer les données de plusieurs tables en parallèle
