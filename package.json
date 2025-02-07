@@ -24,6 +24,7 @@
     "@tavily/core": "0.0.2",
     "@elizaos/plugin-web-search": "0.1.7",
     "@elizaos/plugin-tee": "0.1.7",
+    
 
 
     "amqplib": "0.10.5",
