@@ -28,7 +28,7 @@
 
 
     "amqplib": "0.10.5",
-    "better-sqlite3": "^11.8.1",
+    "better-sqlite3": "latest",
     "fs": "0.0.1-security",
     "mysql2": "^3.12.0",
     "net": "1.0.2",
