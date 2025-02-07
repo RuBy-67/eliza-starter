@@ -21,9 +21,12 @@
     "@elizaos/plugin-bootstrap": "0.1.7",
     "@elizaos/plugin-image-generation": "0.1.7",
     "@elizaos/plugin-node": "0.1.7",
-    "@elizaos/plugin-solana": "0.1.7",
-    "@elizaos/plugin-starknet": "0.1.7",
     "@tavily/core": "0.0.2",
+    "@elizaos/plugin-web-search": "0.1.7",
+    "@elizaos/plugin-tee": "0.1.7",
+    "@elizaos/plugin-tee-log": "0.1.7",
+   
+
     "amqplib": "0.10.5",
     "better-sqlite3": "11.5.0",
     "fs": "0.0.1-security",
