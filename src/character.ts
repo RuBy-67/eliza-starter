@@ -47,7 +47,7 @@ export const character = (async (): Promise<Character> => {
     // Organiser les données
     return {
         name: "Sodara",
-        plugins: ['tee'],
+        plugins: [],
         clients: [],//Clients.DISCORD
         modelProvider: ModelProviderName.GOOGLE,
         settings: {
